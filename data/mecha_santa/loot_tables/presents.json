@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"いけないプレゼント箱\",\"color\":\"light_purple\",\"italic\":false}',Lore:['{\"text\":\"\\\\\"不吉な予感がする\\\\\"\",\"color\":\"white\"}']},CustomModelData:2,AlData:{ItemName:mecha_summon}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "values": [
+    "mecha_santa:load","score_to_health:load","score_damage:core/init","forward_spreader:core/load"
+  ]
+}

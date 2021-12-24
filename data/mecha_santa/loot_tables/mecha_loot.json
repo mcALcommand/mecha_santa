@@ -1,0 +1,25 @@
+{
+  "pools": [
+    {
+      "rolls": 35,
+      "bonus_rolls": 15,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 10,
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 30,
+          "name": "minecraft:iron_ingot"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 80,
+          "name": "minecraft:iron_block"
+        }
+      ]
+    }
+  ]
+}

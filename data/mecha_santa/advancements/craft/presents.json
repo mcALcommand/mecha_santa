@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "mecha_santa:presents_recipe"
+        }
+      }
+    },
+    "rewards": {
+      "function": "mecha_santa:craft/presents"
+    }
+  }
+  

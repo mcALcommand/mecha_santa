@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "WSW",
+        "PPP"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:purple_carpet"
+        },
+        "W": {
+            "item": "minecraft:wither_skeleton_skull"
+        },
+        "S": {
+            "item": "minecraft:soul_lantern"
+        },
+        "P": {
+            "item": "minecraft:purple_wool"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}
